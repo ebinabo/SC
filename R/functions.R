@@ -7,3 +7,11 @@
 test_data <- function(){
   meal_data[1,1]
 }
+
+#' Title
+#'
+#' @return
+#' @export
+#'
+#' @examples
+shopping <- function(){shopping_list}
